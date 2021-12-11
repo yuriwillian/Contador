@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+    font: normal 20pt Bungee;
+    color: white;
+}
+
+body {
+    background: #0071a1;
+}
+
+section {
+    
+    text-align: center;
+    background: white;
+    width: 300px;   /**largura**/
+    margin: auto; /**centralizar**/
+    padding: 80px;
+    border-radius: 100px;
+}
+
+input {
+    margin: 10px;
+    border-radius: 100px;
+}
+
+input#botão {
+    padding: 15px;
+    width: 100px;
+}
+
+p#preparando {
+    font: normal 10pt Bungee;
+    margin-bottom: 0px;
+}
+
+p#copy {
+    font: italic 16pt Bungee;
+    text-align: center;
+    margin-top: 0px;
+    color: white;
+}
